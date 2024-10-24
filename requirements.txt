@@ -1,7 +1,5 @@
-setuptools
 yfinance
 pandas
 matplotlib
 mplfinance
 streamlit
-numpy
