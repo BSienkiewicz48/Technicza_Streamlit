@@ -4,5 +4,4 @@ pandas
 matplotlib
 mplfinance
 streamlit
-pandas_ta==0.3.14b
-numpy==1.20.0
+pandas_ta==0.3.14
