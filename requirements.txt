@@ -7,3 +7,4 @@ plotly
 pandas_ta
 pkg_resources
 mplfinance
+setuptools
