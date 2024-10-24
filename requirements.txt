@@ -6,3 +6,4 @@ numpy
 matplotlib
 mplfinance
 streamlit
+math
