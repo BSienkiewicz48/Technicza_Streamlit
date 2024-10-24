@@ -2,7 +2,7 @@ setuptools
 yfinance
 pandas
 pandas_ta
-numpy
+numpy==1.20.0
 matplotlib
 mplfinance
 streamlit
