@@ -3,3 +3,4 @@ pandas
 matplotlib
 mplfinance
 streamlit
+numpy
