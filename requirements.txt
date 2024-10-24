@@ -5,3 +5,4 @@ pandas_ta
 matplotlib
 mplfinance
 streamlit
+pandas_ta==0.3.14b
