@@ -4,5 +4,4 @@ pandas
 matplotlib
 mplfinance
 streamlit
-pandas_ta
 numpy
